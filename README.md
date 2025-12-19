@@ -10,7 +10,7 @@
 используемой для отрисовки выпуклых множеств.
 - В файле `drawing.py` содержатся процедуры для отрисовки выпуклых множеств.
 
-## Source code for article "Name pending"
+## Source code for article "Support conditions for convex compact sets. Gradient projection and conditional gradient methods"
 
 Repository structure:
 - Folder `images` contains figures from the article.
